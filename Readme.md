@@ -7,7 +7,7 @@
 
 + Array Method (ForEach,for,...)
 + DOM / BOM
-+ Đối tượng (ParentElement)
++ Đối tượng ()
 + Jquery (.remove())
 + thư viện khác
 + FontAwsome 
