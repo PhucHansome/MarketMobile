@@ -1,5 +1,5 @@
-#Building Shopping Cart
-##Các kiến thức áp dụng để xây dựng project
+# Building Shopping Cart
+## Các kiến thức áp dụng để xây dựng project
 
 1. HTML
 2. CSS
