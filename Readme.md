@@ -5,6 +5,9 @@
 2. CSS
 3. Javascript
 
-+ Array Method (ForEach,Target,parentElement,...)
++ Array Method (ForEach,for,...)
 + DOM / BOM
-+ Đối tượng ()
++ Đối tượng (ParentElement)
++ Jquery (.remove())
+
+#link Case: https://phuchansome.github.io/casestudy01/
