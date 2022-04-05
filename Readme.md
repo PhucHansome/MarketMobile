@@ -9,5 +9,7 @@
 + DOM / BOM
 + Đối tượng (ParentElement)
 + Jquery (.remove())
++ thư viện khác
++ FontAwsome 
 
 #link Case: https://phuchansome.github.io/casestudy01/
